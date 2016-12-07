@@ -2,6 +2,7 @@
 ======
 Phần mềm của t là 1 app đăng nhập max cmn đơn giản.
 Điền email, pass rồi ấn login
+
 1. Lên kế hoạch: Thì mình sẽ lên kế hoạch kiểm thử gồm cả hộp đen và trắng rồi áp dụng
 
 2. Kiểm thử hộp đen ( ***mỗi đứa chọn 1 cái nhé*** )
