@@ -12,6 +12,7 @@ Phần mềm của t là 1 app đăng nhập max cmn đơn giản.
 
 
 Còn slide:
+
 1. 15-20 trang báo cáo (**Thành**, **Quỳnh**)
 
 * Mô tả phần mềm
