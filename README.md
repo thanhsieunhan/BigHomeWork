@@ -15,13 +15,13 @@ Còn slide:
 
 1. 15-20 trang báo cáo (**Thành**, **Quỳnh**)
 
-* Mô tả phần mềm
+  * Mô tả phần mềm
 
-* Kế hoạch kiểm thử
+  * Kế hoạch kiểm thử
 
-* Test-cases
+  * Test-cases
 
-* Kết quả kiểm thử.
+  * Kết quả kiểm thử.
 
 2. 10-15 trang slides báo cáo. (**Long** làm nhé)
 
